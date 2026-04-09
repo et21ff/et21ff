@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=et21ff\&show_icons=true)
+![snake](https://raw.githubusercontent.com/et21ff/et21ff/output/github-contribution-grid-snake.svg)
 
 ---
 
